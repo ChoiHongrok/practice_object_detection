@@ -1,3 +1,4 @@
 # manually ignored
 data/
 output/
+*/.ipynb_checkpoints/*
