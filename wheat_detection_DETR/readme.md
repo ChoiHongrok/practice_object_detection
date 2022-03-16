@@ -6,6 +6,7 @@
 
 ### data download (you have to register competition before download)
 `kaggle competitions download -c global-wheat-detection -p data/`
+<br>
 `unzip data/global-wheat-detection.zip`
 
 # reference
