@@ -2,10 +2,11 @@
 
 
 ### model download
-`kaggle kernels output tanulsingh077/end-to-end-object-detection-with-transformers-detr -p /path/to/dest`
+`kaggle kernels output tanulsingh077/end-to-end-object-detection-with-transformers-detr -p output/`
 
 ### data download (you have to register competition before download)
-`kaggle competitions download -c global-wheat-detection`
+`kaggle competitions download -c global-wheat-detection -p data/`
+`unzip data/global-wheat-detection.zip`
 
 # reference
 __End to End Object Detection with Transformers:DETR__
